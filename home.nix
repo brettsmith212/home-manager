@@ -12,6 +12,7 @@
     nix
     nodejs
     python3
+    go
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
